@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arnabpal679@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14BdzxKEpVmoHwNjUqMDB9vnTl8lZeRBr/view](https://drive.google.com/file/d/14BdzxKEpVmoHwNjUqMDB9vnTl8lZeRBr/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14BdzxKEpVmoHwNjUqMDB9vnTl8lZeRBr/view" alt="resume">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
