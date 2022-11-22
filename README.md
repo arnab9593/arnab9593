@@ -114,6 +114,11 @@ width="40" height="40" />
 </a>
 </p>
 
+<p>&nbsp;<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=arnab9593&show_icons=true&locale=en"
+alt="arnab9593" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9593&" alt="arnab9593" />
 </p>
 
