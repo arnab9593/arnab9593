@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arnab Pal</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India. ’m an inquisitive and highly motivated Full Stack web developer with specialization in MERN stack, worked through 1000+ hours of bootcamp structure learning. I have the relevant hands-on experience in building websites from scratch using HTML 5, CSS 3 JavaScript, React.Js , Node.Js, Express, MongoDB tech stack and also have the ability to learn and collaborate in rapidly changing environments and compositions. Also I possess experience of 18 months in the area of Oracle Fusion Middleware technology. I'm looking forward to pursue a career in a challenging environment to hone the industry skills.</h3>
 
 <p align="left"> <img
 src="https://komarev.com/ghpvc/?username=arnab9593&label=Profile%20views&color=0e75b6&style=flat"
