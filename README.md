@@ -34,9 +34,9 @@ alt="https://www.linkedin.com/in/arnab-pal-71248b155/" height="30" width="40" />
 alt="javascript" width="40" height="40" />
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-alt="typescript" width="40" height="40" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"
+alt="python" width="40" height="40" />
 </a>
 
 <h3 align="left">Frontend Development:</h3>
