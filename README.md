@@ -9,7 +9,7 @@ alt="arnab9593" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
 src="https://github-profile-trophy.vercel.app/?username=arnab9593" alt="arnab9593" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://arnab9593.github.io/](https://arnab9593.github.io/)
 
