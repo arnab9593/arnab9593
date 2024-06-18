@@ -13,8 +13,6 @@ src="https://github-profile-trophy.vercel.app/?username=arnab9593" alt="arnab959
 
 - 👨‍💻 All of my projects are available at [https://arnab9593.github.io/](https://arnab9593.github.io/)
 
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **arnabpal679@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/14BdzxKEpVmoHwNjUqMDB9vnTl8lZeRBr/view" alt="resume">Resume</a>
