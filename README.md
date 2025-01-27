@@ -90,6 +90,10 @@ alt="express" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
 alt="mongodb" width="40" height="40" />
 </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src=""
+alt="mongodb" width="40" height="40" />
+</a>
 
 <h3 align="left">Software and Tools:</h3>
 
