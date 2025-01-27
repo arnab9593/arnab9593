@@ -5,9 +5,9 @@
 <h4>🚀 What I Bring to the Table:</h4>
 <ul>
   <li>Proficient in <strong>data engineering pipelines</strong>, ETL processes, and working with large datasets.</li>
-  <li>Expertise in <strong>Full Stack Development</strong>, creating responsive, dynamic, and scalable web applications from scratch.</li>
-  <li>Hands-on experience with <strong>Oracle Fusion Middleware</strong>, showcasing versatility across tech ecosystems.</li>
-  <li>A constant learner, currently diving into <strong>Artificial Intelligence and Machine Learning</strong>, with aspirations of becoming a <strong>Data Scientist</strong>.</li>
+  <li>Experience in <strong>Full Stack Development</strong>, creating responsive, dynamic, and scalable web applications from scratch.</li>
+  <li>Hands-on experience with <strong>Oracle Fusion Middleware & AWS</strong>, showcasing versatility across tech ecosystems.</li>
+  <li>A constant learner, currently diving into <strong>Artificial Intelligence and Machine Learning</strong></li>
 </ul>
 
 <p align="left"> <img
