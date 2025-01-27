@@ -1,6 +1,15 @@
 
 <h1 align="center">Hi, I'm Arnab Pal</h1>
 <h3 align="center">A Software Engineer with a strong foundation in Full Stack Development and over two years of hands-on experience building and deploying web applications using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). My passion for solving complex problems and creating impactful solutions drives me to continually grow and explore new technologies.</h3>
+
+<h4>🚀 What I Bring to the Table:</h4>
+<ul>
+  <li>Proficient in <strong>data engineering pipelines</strong>, ETL processes, and working with large datasets.</li>
+  <li>Expertise in <strong>Full Stack Development</strong>, creating responsive, dynamic, and scalable web applications from scratch.</li>
+  <li>Hands-on experience with <strong>Oracle Fusion Middleware</strong>, showcasing versatility across tech ecosystems.</li>
+  <li>A constant learner, currently diving into <strong>Artificial Intelligence and Machine Learning</strong>, with aspirations of becoming a <strong>Data Scientist</strong>.</li>
+</ul>
+
 <p align="left"> <img
 src="https://komarev.com/ghpvc/?username=arnab9593&label=Profile%20views&color=0e75b6&style=flat"
 alt="arnab9593" /> </p>
