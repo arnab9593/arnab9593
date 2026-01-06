@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Arnab Pal</h1>
-<h3 align="center">A Software Engineer with a strong foundation in Full Stack Development and over two years of hands-on experience building and deploying web applications using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). My passion for solving complex problems and creating impactful solutions drives me to continually grow and explore new technologies.</h3>
+<h3 align="center">A Software Engineer with a strong foundation in Data Engineering and Generative AI, experienced in building scalable data pipelines, backend systems, and AI-driven applications. Focused on transforming raw data into reliable, production-ready systems and leveraging GenAI techniques to solve real-world problems..</h3>
 
 <h4>🚀 What I Bring to the Table:</h4>
 <ul>
