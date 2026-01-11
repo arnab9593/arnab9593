@@ -28,13 +28,13 @@ Software Engineer focused on Data Engineering and Generative AI, experienced in 
 
 <ul>
   <li>🌱 Currently learning <strong>Artificial Intelligence & Machine Learning</strong></li>
-  <li>👨‍💻 Projects: <a href="https://arnab9593.github.io/">https://arnab9593.github.io/</a></li>
+  <!-- <li>👨‍💻 Projects: <a href="https://arnab9593.github.io/">https://arnab9593.github.io/</a></li> -->
   <li>📫 Contact: <strong>arnabpal679@gmail.com</strong></li>
-  <li>📄 Resume:
+  <!-- <li>📄 Resume:
     <a href="https://drive.google.com/file/d/14BdzxKEpVmoHwNjUqMDB9vnTl8lZeRBr/view" target="_blank">
       View Resume
     </a>
-  </li>
+  </li> -->
 </ul>
 
 <h3 align="left">🤝 Connect with Me</h3>
