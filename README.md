@@ -19,12 +19,12 @@ Software Engineer focused on Data Engineering and Generative AI, experienced in 
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=arnab9593&theme=flat&no-frame=true&margin-w=10"
     alt="GitHub Profile Trophies"
   />
-</p>
+</p> -->
 
 <ul>
   <li>🌱 Currently learning <strong>Artificial Intelligence & Machine Learning</strong></li>
